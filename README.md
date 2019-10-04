@@ -19,5 +19,5 @@ Here we used context api and hooks to do this.
 
 # Screenshots
 
-<img src="Screenshots/0.jpg">
+<img src="Screenshots/0.png">
 
