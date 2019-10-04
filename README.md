@@ -17,3 +17,7 @@ it will add to the number of shopping cart icon in the navbar.
 
 Here we used context api and hooks to do this.
 
+# Screenshots
+
+<img src="Screenshots/0.jpg">
+
